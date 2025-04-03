@@ -1,13 +1,22 @@
 # 👋 Hi there, I'm PengJingzhao
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Followers&style=social)](https://github.com/your-github-username?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=PengJingzhao&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/PengJingzhao?label=Followers&style=social)](https://github.com/your-github-username?tab=followers)
 
 ## 👨‍💻 About Me
 
 - 🔭 I'm currently working on OSPP and GSOC
 - 🌱 I'm currently learning Dubbo , Seata , Hertzbeat
 - 📫 How to reach me: 1670916827@qq.com
+
+[![PengJingzhao's github stats](https://github-readme-stats.vercel.app/api?username=PengJingzhao)]
+![](https://raw.githubusercontent.com/funky-eyes/funky-eyes/main/assets/github-contribution-grid-snake.svg)
+<a href="#" style="cursor: default;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PengJingzhao&hide=html,thrift" />
+</a>
+<a href="#" style="cursor: default;">
+  <img  src="https://github-profile-trophy.vercel.app/?username=PengJingzhao&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
 
 ## 🛠️ Skills & Tools
 
@@ -26,5 +35,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-
